@@ -1,0 +1,22 @@
+
+
+#APIkeySubmission{
+    display: block;
+}
+
+p{
+    font-size: 20px;
+    color: blue;
+}
+
+button{
+    margin: 10px;
+    padding: 4px;
+    background-color: blue;
+    color: white;
+}
+
+textarea{
+    width: 1000px;
+    height: 100px;
+}
